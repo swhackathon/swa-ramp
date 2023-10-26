@@ -1,0 +1,9 @@
+{
+    "account_id": "123456789551",
+    "regions": ["us-west-", "us-west-2"],
+    "env_vars": {
+        "scope": "dev",
+        "volatile": true,
+        "protected": false
+    }
+  }

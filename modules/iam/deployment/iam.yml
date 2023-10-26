@@ -1,0 +1,12 @@
+---
+name: cargo
+iam: |
+  Version: '2012-10-17'
+  Statement:
+  - Effect: Allow
+    Action: iam:*
+    Resource: "*"
+env:
+  - DEPLOY_COLOR: red
+  - PROTECTION: true
+  - CCENTER: "5552"

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "Dept": "swa-ramp",
+        "team": "Villager-Pod",
+        "cost center": "5552"
+    },
+    "facts":{
+        "regions": ["us-east-1", "us-east-2", "us-west-", "us-west-2"],
+        "cidr_block": {
+            "block": "10.0.0.0/20",
+            "subnets": ["10.0.0.0/21", "10.0.8.0/22", "10.0.12.0/22"]
+        }
+    },
+    "tags": {
+        "Dept": "swa-ramp",
+        "team": "Villager-Pod",
+        "cost center": "5552",
+        "env": "dev"
+    }
+}
